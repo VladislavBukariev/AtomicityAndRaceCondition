@@ -1,0 +1,7 @@
+c:\users\user\Source\Repos\AtomicityandRaceCondition\AtomicityandRaceCondition\bin\Debug\AtomicityandRaceCondition.exe.config
+c:\users\user\Source\Repos\AtomicityandRaceCondition\AtomicityandRaceCondition\bin\Debug\AtomicityandRaceCondition.exe
+c:\users\user\Source\Repos\AtomicityandRaceCondition\AtomicityandRaceCondition\bin\Debug\AtomicityandRaceCondition.pdb
+c:\users\user\Source\Repos\AtomicityandRaceCondition\AtomicityandRaceCondition\obj\Debug\AtomicityandRaceCondition.csprojResolveAssemblyReference.cache
+c:\users\user\Source\Repos\AtomicityandRaceCondition\AtomicityandRaceCondition\obj\Debug\AtomicityandRaceCondition.csproj.CoreCompileInputs.cache
+c:\users\user\Source\Repos\AtomicityandRaceCondition\AtomicityandRaceCondition\obj\Debug\AtomicityandRaceCondition.exe
+c:\users\user\Source\Repos\AtomicityandRaceCondition\AtomicityandRaceCondition\obj\Debug\AtomicityandRaceCondition.pdb
